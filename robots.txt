@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-nucl17.jambul126.xyz/sitemap.xml
